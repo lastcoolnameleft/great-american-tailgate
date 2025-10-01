@@ -8,7 +8,7 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "Scouting Americana",
+	title: "The Great American Tailgate",
 	subtitle: "A blog about discovering America by visiting every NFL stadium",
 	lang: "en", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
@@ -49,7 +49,7 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/gene-tommy.jpeg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "Scouting Americana",
+	name: "The Great American Tailgate",
 	bio: "A blog about discovering America by visiting every NFL stadium.",
 	links: [
 		{
@@ -62,7 +62,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/lastcoolnameleft/scouting-americana/",
+			url: "https://github.com/lastcoolnameleft/great-american-tailgate/",
 		},
 	],
 };

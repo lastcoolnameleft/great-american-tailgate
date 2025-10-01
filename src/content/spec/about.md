@@ -1,6 +1,6 @@
 # Why We're Chasing Every Stadium Across America
 
-## The Origin Story of Scouting Americana
+## The Origin Story of The Great American Tailgate
 
 Gene and I met swing dancing in Dallas when we were both single and looking. After meetign his wife, Gene moved to Seattle, and suddenly my friend was 2,000 miles away.
 

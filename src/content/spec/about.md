@@ -2,7 +2,7 @@
 
 ## The Origin Story of The Great American Tailgate
 
-Gene and I met swing dancing in Dallas when we were both single and looking. After meetign his wife, Gene moved to Seattle, and suddenly my friend was 2,000 miles away.
+Gene and I met swing dancing in Dallas when we were both single and looking. After meeting his wife, Gene moved to Seattle, and suddenly my friend was 2,000 miles away.
 
 Like most long-distance friendships, ours started fading. Video calls became texts. "We should visit" became something we said but never did.
 Then football season started.

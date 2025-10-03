@@ -53,16 +53,11 @@ export const profileConfig: ProfileConfig = {
 	bio: "A blog about discovering America by visiting every NFL stadium.",
 	links: [
 		{
-			name: "Twitter",
+			name: "Instagram",
 			icon: "fa6-brands:instagram", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "https://www.instagram.com/tommy.falgout/",
-		},
-		{
-			name: "GitHub",
-			icon: "fa6-brands:github",
-			url: "https://github.com/lastcoolnameleft/great-american-tailgate/",
 		},
 	],
 };

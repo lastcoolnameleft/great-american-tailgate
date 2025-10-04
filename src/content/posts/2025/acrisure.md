@@ -34,7 +34,7 @@ I stayed at an **Airbnb in Northside** and spent my time wandering the city, eat
 
 ### Downtown Pittsburgh and PGG Architecture
 
-**Downtown Pittsburgh** blew me away. The architecture—especially the **PGG (Pittsburgh Plate Glass) buildings**—is stunning. The city has this beautiful mix of old industrial heritage and modern design. I loved walking around just looking up at the buildings.
+**Downtown Pittsburgh** blew me away. The architecture, especially the **PGG (Pittsburgh Plate Glass) buildings**, is stunning. The city has this beautiful mix of old industrial heritage and modern design. I loved walking around just looking up at the buildings.
 
 ### Primanti Bros: Fries Belong in Sandwiches
 
@@ -44,7 +44,7 @@ I ordered the **Pastrami and Cheese**, and it was amazing. Yes, they literally p
 
 ### Point State Park: Under Construction, Still Beautiful
 
-**Point State Park** was under construction because Pittsburgh is hosting the **2026 NFL Draft**. Even with the work happening, it was still a beautiful spot. Standing at the point where the rivers come together—the Allegheny, Monongahela, and Ohio—was stunning. You can see why this location was so important historically.
+**Point State Park** was under construction because Pittsburgh is hosting the **2026 NFL Draft**. Even with the work happening, it was still a beautiful spot. Standing at the point where the rivers come together, the Allegheny, Monongahela, and Ohio was stunning. You can see why this location was so important historically.
 
 ### Randyland: A Kaleidoscope of Joy
 
@@ -60,11 +60,11 @@ It's very different from the New Orleans bars I grew up with, where you can hear
 
 ### Mattress Factory: Modern Art in an Old Factory
 
-I visited the **Mattress Factory**, a modern art museum that—true to its name—used to be an actual mattress factory. Modern art isn't usually my thing, but this place was cool. The installations were creative and thought-provoking, and the space itself added to the experience.
+I visited the **Mattress Factory**, a modern art museum, which used to be an actual mattress factory. Modern art isn't usually my thing, but this place was cool. The installations were creative and thought-provoking, and the space itself added to the experience.
 
 ### Strip District: Steelers Everything
 
-The **Strip District** is a collection of shops, markets, and—most importantly—**LOTS of Steelers clothing for sale**. Black and gold everywhere. The city bleeds Steelers pride.
+The **Strip District** is a collection of shops, markets, and **LOTS of Steelers clothing for sale**. Black and gold everywhere. The city bleeds Steelers pride.
 
 I found **Posman Books**, a bookstore that's also an ice cream shop. I was in heaven. Books and ice cream in one place? That's my ideal afternoon.
 
@@ -74,7 +74,7 @@ I have a large whisk(e)y collection and usually prefer bourbons, but I stopped b
 
 ### The Incline Adventure and Unexpected Friends
 
-I took the **Monongahela Incline** up to get a higher view of downtown. The view was incredible—rivers, bridges, the city skyline all laid out below.
+I took the **Monongahela Incline** up to get a higher view of downtown. The view was incredible with the rivers, bridges, the city skyline all laid out below.
 
 I planned to walk to the **Duquesne Incline** to go back down, and along the way, I made conversation with a couple who was heading to **Le Mont**, a restaurant with an amazing view.
 
@@ -86,7 +86,7 @@ Sometimes the best travel moments are the unplanned ones.
 
 I saw **"Animation Mixtape"** at the **Harris Theater**, which happened to be showing while I was in town and featured one of my favorite animators.
 
-The show was a potpourri of animations—some fell flat, some were hilarious, and some were genuinely thought-provoking. It was a fun, eclectic experience.
+The show was a potpourri of animations.  Some fell flat, some were hilarious, and some were genuinely thought provoking. It was a fun, eclectic experience.
 
 ### Walking Home: A Safe City
 
@@ -104,7 +104,7 @@ We ran into a couple where the husband had already **visited every stadium to se
 
 ### Pre-Game Highlights
 
-We got to see the **Fred Rogers Memorial Statue**—a touching tribute to Mr. Rogers, who's beloved in Pittsburgh.
+We got to see the **Fred Rogers Memorial Statue**, a touching tribute to Mr. Rogers, who's beloved in Pittsburgh.
 
 There was also a **parade of lowriders** showing off before the game, which got everyone's attention. It was fun to watch and added to the festive atmosphere.
 
@@ -112,13 +112,13 @@ One thing that blew my mind: instead of parking at the stadium, some people were
 
 ## Acrisure Stadium: Outdoor Football by the Rivers
 
-**Acrisure Stadium** is outdoor, sunny, and has a **great view of the rivers**. It's a classic football setting—open air, natural light, and the industrial beauty of Pittsburgh as a backdrop.
+**Acrisure Stadium** is outdoor, sunny, and has a **great view of the rivers**. It's a classic football setting, open air, natural light, and the industrial beauty of Pittsburgh as a backdrop.
 
 Here's the thing though: the stadium is officially called Acrisure Stadium, but **every local we talked to called it Heinz Field**. That's what it was called for years, and old habits die hard. The ketchup bottle may be gone from the scoreboard, but it's clearly not gone from people's hearts.
 
 I was wearing my **gold Saints shirt**, which looked close enough to Steelers colors that I'm not even sure people noticed I wasn't rooting for the home team.
 
-We met up with my friends from the restaurant—the couple celebrating their anniversary—and enjoyed the game together.
+We met up with my friends from the restaurant, the couple celebrating their anniversary, and enjoyed the game together.
 
 ## The Game: Seahawks Win
 
@@ -136,13 +136,13 @@ After the game, we had to drive by **Randyland** to show it to Gene because it w
 
 Unfortunately, we didn't have time for much else. I had to fly home, and Gene had to fly out for another work week.
 
-At the **Pittsburgh International Airport**, I spotted a **really cool construction installation robot**—some kind of art piece that caught my attention on the way out. A fitting end to a city that blends industry and creativity so well.
+At the **Pittsburgh International Airport**, I spotted a **really cool construction installation robot**, some kind of art piece that caught my attention on the way out. A fitting end to a city that blends industry and creativity so well.
 
 ## What We Learned
 
 Stadium #3 taught us:
 
-**Northern cities in September are perfect.** Warm, sunny, and comfortable—no oppressive heat.
+**Northern cities in September are perfect.** Warm, sunny, and comfortable.  Without the oppressive heat.
 
 **Always pack sunscreen.** Even in the north, sunny game days will get you.
 
@@ -160,7 +160,7 @@ Three stadiums down. Twenty-seven to go.
 
 We've been to the West Coast, the South, and now the North. Each city teaches us something new about America and about how to be smarter travelers.
 
-Gene and I are learning as we go—and that's exactly the point.
+Gene and I are learning as we go.
 
 ---
 

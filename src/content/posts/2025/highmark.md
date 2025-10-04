@@ -20,19 +20,19 @@ Our fourth trip took us to Buffalo, and we knew going in that Bills fans would b
 
 ## A Small City with a Massive Fan Base
 
-Buffalo has about the same population (~276k) as New Orleansi (~362k)—fairly small as far as NFL cities go. But that just means their fan base is more rad. The entire city rallies around the Bills in a way that feels personal and deeply passionate.
+Buffalo has about the same population (~276k) as New Orleans (~362k), so it's fairly small as far as NFL cities go. But that just means their fan base is more rad. The entire city rallies around the Bills in a way that feels personal and deeply passionate.
 
 I'm a big fan of Josh Allen, and because the Bills have been beaten up so many times and come so close to the Super Bowl but never walked away with the Lombardi Trophy, I root for them. When they're not playing the Saints, of course.
 
-The weather was slightly overcast but mostly clear—perfect football weather.
+The weather was slightly overcast but mostly clear, perfect football weather.
 
 We stayed at a Holiday Inn downtown, had a rental car and were ready to explore.
 
 ## Late Night Arrival: Buffalo After Dark
 
-Since I flew in late, and Gene and I headed downtown around midnight. Even though it was a small section of the city, the night scene was going strong.
+Since I flew in late, Gene and I headed downtown around midnight. Even though it was a small section of the city, the night scene was going strong.
 
-We did notice that Gene and I looked like we were wrecking the age curve—most of the people there appeared to be in their 20s. We were definitely bringing up the average.
+We did notice that Gene and I looked like we were wrecking the age curve as most of the people there appeared to be in their 20s. We were definitely bringing up the average.
 
 We found a dive bar and ordered some wings, which were okay, but they did not live up to the expectation and hype of Buffalo wings. A disappointing start, but we'd get another chance.
 
@@ -44,7 +44,7 @@ Since I've been to Buffalo before, I knew this was a hotly debated topic, so I j
 
 We got there early, and there was already a line before they'd even opened. We got to talk to some other Bills and Saints fans who were in town for the game. The wings were great and completely redeemed themselves from the previous night's bar. These were the real deal.
 
-On the walk back, we ran into a car show with lots of beautiful classic cars on display. My favorite was a converted van in the style of Alice in Wonderland—whimsical and perfectly executed.
+On the walk back, we ran into a car show with lots of beautiful classic cars on display. My favorite was a converted van in the style of Alice in Wonderland.
 
 ## Frank Lloyd Wright's Martin House
 
@@ -60,7 +60,7 @@ It did not disappoint. I brought back a bag for myself and the family. But mostl
 
 ## Eternal Flame Falls
 
-We were glad to have Gene's car, as that let us drive to the **Eternal Flame Falls**—a natural gas flame that burns behind a small waterfall.
+We were glad to have Gene's car, as that let us drive to the **Eternal Flame Falls**, a natural gas flame that burns behind a small waterfall.
 
 We were glad it wasn't raining, as it might have been difficult and slippery to get to otherwise. It's a small natural wonder that's worth the trip.
 
@@ -74,7 +74,7 @@ From a recommendation from Gene's sister, we ate at **Chef's Restaurant**. The n
 
 I'm pretty sure the layer of cheese, sweet meat sauce, and copious amounts of butter helped. The couple next to us were just as excited and glowing about the food.
 
-They don't give you just a napkin—you get a full-on bib. Because you're going to make a mess, and you should just lean into it.
+They don't give you just a napkin, you get a full bib. Because you're going to make a mess, and you should just lean into it.
 
 We finished the night off by walking our full bellies to the top of the **Ascend Hotel** for a view of downtown Buffalo, then popping into **Streetlight Brasserie**, which gave a strong "seen and be seen" vibe.
 
@@ -102,7 +102,7 @@ Buffalo fans are creative with their presentation.
 
 ### Pinto Ron and the Ketchup and Mustard Ritual
 
-About 90 minutes before the game started, **Hammer Lot** got crowded as people came to see **Pinto Ron** and the ketchup and mustard dousing ritual. It was exactly as advertised—chaotic, loud, and quintessentially Bills Mafia.
+About 90 minutes before the game started, **Hammer Lot** got crowded as people came to see **Pinto Ron** and the ketchup and mustard dousing ritual. It was exactly as advertised: chaotic, loud, and quintessentially Bills Mafia.
 
 ### "F*** the Saints" and Finding Common Ground
 
@@ -114,13 +114,13 @@ I knew that almost every game we do on this journey would be "in enemy territory
 
 ### We're Not Alone
 
-We also ran into three other people who said they were also trying to visit each of the NFL stadiums. That gave me hope that we're not alone in this adventure, and who knows—we might see the same people again!
+We also ran into three other people who said they were also trying to visit each of the NFL stadiums. That gave me hope that we're not alone in this adventure, and who knows, we might see the same people again!
 
 Hopefully, this blog can help others want to go down this path.
 
 ## Highmark Stadium: Old-School Football
 
-This is the **final and 52nd year of Highmark Stadium**—one of the very few old-school stadiums still around. It felt like a high school stadium with the grandstands and aluminum bleachers, but much larger.
+This is the **final and 52nd year of Highmark Stadium** one of the very few old-school stadiums still around. It felt like a high school stadium with the grandstands and aluminum bleachers, but much larger.
 
 The new stadium, which is right next door, will be ready for the next football season. So I guess we have to come back to Buffalo again.
 
@@ -146,7 +146,7 @@ Due to our early scouting and carefully planned parking and exit, I was able to 
 
 Stadium #4 taught us:
 
-**Bills Mafia is real.** The intensity, the creativity, the passion—it's everything you've heard and more.
+**Bills Mafia is real.** The intensity, the creativity, the passion. It's everything you've heard and more.
 
 **Don't take trash talk personally.** Once you respond with humor and respect, even the most intense fans become friendly.
 
@@ -156,7 +156,7 @@ Stadium #4 taught us:
 
 **We're not alone.** Other people are doing this crazy stadium tour too, and that's awesome.
 
-**Old-school stadiums are special.** Highmark Stadium felt like real football—no frills, just passion and aluminum bleachers.
+**Old-school stadiums are special.** Highmark Stadium felt like real football.  No frills, just passion and aluminum bleachers.
 
 **Sponge candy is delicious.** Buffalo knows what they're doing.
 

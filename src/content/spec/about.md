@@ -9,12 +9,12 @@ Then football season started.
 
 While Gene's a Seahawks fan; I'm a Saints fan. We'd never talked about football in Dallas, but once he was back in Seattle, it crept into our group chat. Videos of stadium crowds. Friendly trash talk. Debates about which fanbase was better.
 
-One day Gene typed: "We should just visit all 32 stadiums."
+One day Gene typed: "We should just visit every stadium."
 I laughed it off. But two weeks later, I texted him: "Were you serious about the stadium thing?"
 "100%," he replied.
 
 ## The Real Reason
-This isn't really about football. It's about giving ourselves a reason to see each other. Thirty stadiums means thirty guaranteed weekends together. No more vague plans—just actual dates, plane tickets, and adventures.
+This isn't really about football. It's about giving ourselves a reason to see each other. Thirty stadiums means thirty guaranteed weekends together. No more vague plans. Actual dates, plane tickets, and adventures.
 
 The stadiums get us there. But what we're discovering is so much more.
 
@@ -25,12 +25,12 @@ We're learning that every city has its own culture, its own personality, its own
 
 We've found hole-in-the-wall restaurants that don't have websites. We've stumbled into neighborhood bars where regulars share their city's story. We've had conversations with people whose lives look nothing like ours, learning what makes their corner of America special.
 
-Each trip teaches us something new—not just about that place, but about how diverse and interesting this country really is.
+Each trip teaches us something new, not just about that place, but about how diverse and interesting this country really is.
 
 ## More Than We Expected
 This journey is keeping Gene and me connected across the distance. We're rebuilding our friendship with real shared experiences, not just text messages.
 
-But we're also learning about our own country. We're discovering America's hidden side—the local culture, the regional differences, the stories that don't make it into travel guides.
+But we're also learning about our own country. We're discovering America's hidden side, the local culture, the regional differences, the stories that don't make it into travel guides.
 
 The stadiums are our framework. The games give us something to rally around. But the real magic happens in the detours, the conversations, the tailgating and the unexpected moments when a city opens up to you.
 

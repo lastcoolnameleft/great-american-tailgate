@@ -18,17 +18,17 @@ draft: false
 
 Every journey has to start somewhere. For Gene and me, that somewhere was Los Angeles, standing in the parking lot of the most expensive stadium ever built, about to experience our first real NFL tailgate.
 
-This was it—the beginning of our quest to visit all 30 NFL stadiums and discover America along the way. We'd talked about this crazy idea for months, and now we were actually doing it. Even if it was "just" a preseason game.
+This was it!  The beginning of our quest to visit all 30 NFL stadiums and discover America along the way. We'd talked about this crazy idea for months, and now we were actually doing it. Even if it was "just" a preseason game.
 
 ## Getting to Know LA
 
-We flew in a few days early to explore the city before game day. LA is massive, sprawling, and impossible to truly know in just a few days—but we tried.
+We flew in a few days early to explore the city before game day. LA is massive, sprawling, and impossible to truly know in just a few days, but we tried.
 
 **Getty Villa** was our first stop, tucked into the Pacific Palisades with views of the ocean. Walking through the recreated Roman villa filled with ancient art felt surreal, like stepping into another world. The gardens alone were worth the visit.
 
 From there we headed to **Castle Rock Village**, a quirky little shopping area that felt like someone had transported a European village to the California coast. It was touristy, sure, but charming in its own way.
 
-**Santa Monica Pier** gave us the classic California experience—the Ferris wheel, the arcade, street performers, and that endless stretch of beach. The weather was perfect, exactly what you'd expect from LA. Sunny, warm, not too hot. We grabbed fish tacos and watched the sunset over the Pacific, already feeling like this trip was going to be something special.
+**Santa Monica Pier** gave us the classic California experience:  The Ferris wheel, the arcade, street performers, and that endless stretch of beach. The weather was perfect, exactly what you'd expect from LA. Sunny, warm, not too hot. We grabbed fish tacos and watched the sunset over the Pacific, already feeling like this trip was going to be something special.
 
 
 ## Game Day: Our First Tailgate
@@ -37,11 +37,11 @@ Game day arrived, and we learned quickly that tailgating is an art form.
 
 Driving up to **SoFi Stadium** for the first time was surreal. The building is massive, modern, and sits there like a spaceship that landed in Inglewood. We couldn't go inside yet, but just seeing it from the outside got us excited for what was coming.
 
-We rolled into the parking lot not really knowing what to expect. Within minutes, we were welcomed by Chargers fans setting up elaborate spreads—grills smoking, canopies up, music playing, corn hole games in full swing. The energy was infectious.
+We rolled into the parking lot not really knowing what to expect. Within minutes, we were welcomed by Chargers fans setting up elaborate spreads of grills smoking, canopies up, music playing, corn hole games in full swing. The energy was infectious.
 
 But here's what surprised us: the **Seahawks fans**. Gene's people. There weren't a ton of them, but there were enough that we didn't feel alone. We found a small group decked out in blue and green, and they welcomed us in like we were family. That's when we learned that fanbases travel, even in the preseason.
 
-One of the coolest conversations we had was with a couple living the **van life**. They had a converted Sprinter van that was basically a tiny home on wheels, and they were following the Seahawks up and down the West Coast. They showed us the whole setup—solar panels, compact kitchen, the works. It was inspiring and made us think about all the different ways people experience this game and this country.
+One of the coolest conversations we had was with a couple living the **van life**. They had a converted Sprinter van that was basically a tiny home on wheels, and they were following the Seahawks up and down the West Coast. They showed us their solar panels, compact kitchen, the works. It was inspiring and made us think about all the different ways people experience this game and this country.
 
 Even though it was preseason, the tailgate atmosphere was real. People showed up. People cared. That was our first lesson: it's not always about the stakes of the game. It's about the ritual, the community, the excuse to gather.
 
@@ -49,7 +49,7 @@ Even though it was preseason, the tailgate atmosphere was real. People showed up
 
 Walking into SoFi Stadium for the first time is an experience I won't forget.
 
-The place is **immense**. It holds 70,000 people and somehow still feels intimate once you're inside. The landscaping around the stadium is beautiful—palms, native plants, modern architecture blending with the Southern California environment.
+The place is **immense**. It holds 70,000 people and somehow still feels intimate once you're inside. The landscaping around the stadium has beautiful palms, native plants, and modern architecture blending with the Southern California environment.
 
 Inside, we saw Seahawks fans who'd gone all out. I'm talking full body paint, green and blue from head to toe. One guy had spray-painted his entire head and face green. The dedication was unreal, especially for a preseason game.
 
@@ -61,7 +61,7 @@ This thing is unlike anything else in sports. It's a 120-yard double-sided video
 
 The Seahawks won. That made Gene happy, even if most of the stars weren't playing.
 
-That's the thing about preseason—you're watching backup quarterbacks, rookies trying to make the roster, veterans getting their legs under them. We didn't see Russell Wilson or any of the big names take more than a handful of snaps. But it didn't matter.
+That's the thing about preseason.  You're watching backup quarterbacks, rookies trying to make the roster, veterans getting their legs under them. We didn't see Russell Wilson or any of the big names take more than a handful of snaps. But it didn't matter.
 
 We were there. We were in an NFL stadium, watching live football, soaking in the atmosphere. The crowd still cheered. The band still played. The energy was still real.
 
@@ -79,7 +79,7 @@ This first trip taught us a lot:
 
 **People are welcoming.** Strangers invited us to their tailgates. Fans shared their stories. Van lifers showed us their homes. Everyone we met was generous with their time and their passion.
 
-**This journey is going to be incredible.** If this was just stadium #1, and it already gave us this much—the conversations, the sights, the food, the experience—then the next 29 are going to be unforgettable.
+**This journey is going to be incredible.** If this was just stadium #1, and it already gave us great conversations, sights, food, and experience.
 
 ## The Road Ahead
 

@@ -32,9 +32,9 @@ Gene had work commitments and couldn't join until Sunday, driving in right befor
 
 I stayed at an **Airbnb in Northside** and spent my time wandering the city, eating well, and discovering what makes Pittsburgh unique.
 
-### Downtown Pittsburgh and PGG Architecture
+### Downtown Pittsburgh and PPG Architecture
 
-**Downtown Pittsburgh** blew me away. The architecture, especially the **PGG (Pittsburgh Plate Glass) buildings**, is stunning. The city has this beautiful mix of old industrial heritage and modern design. I loved walking around just looking up at the buildings.
+**Downtown Pittsburgh** blew me away. The architecture, especially the **PPG (Pittsburgh Plate Glass) buildings**, is stunning. The city has this beautiful mix of old industrial heritage and modern design. I loved walking around just looking up at the buildings.
 
 ### Primanti Bros: Fries Belong in Sandwiches
 

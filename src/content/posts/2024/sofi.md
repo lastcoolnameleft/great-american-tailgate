@@ -51,7 +51,7 @@ Walking into SoFi Stadium for the first time is an experience I won't forget.
 
 The place is **immense**. It holds 70,000 people and somehow still feels intimate once you're inside. The landscaping around the stadium has beautiful palms, native plants, and modern architecture blending with the Southern California environment.
 
-Inside, we saw Seahawks fans who'd gone all out. I'm talking full body paint, green and blue from head to toe. One guy had spray-painted his entire head and face green. The dedication was unreal, especially for a preseason game.
+Inside, we saw Seahawks fans who'd gone all out. I'm talking full body paint, green and blue from head to toe. One guy had dyed his hair green and had a green pimp outfit. The dedication was unreal, especially for a preseason game.
 
 But the real showstopper? The **infinity screen**.
 

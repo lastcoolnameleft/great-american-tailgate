@@ -44,7 +44,7 @@ I ordered the **Pastrami and Cheese**, and it was amazing. Yes, they literally p
 
 ### Point State Park: Under Construction, Still Beautiful
 
-**Point State Park** was under construction because Pittsburgh is hosting the **2026 NFL Draft**. Even with the work happening, it was still a beautiful spot. Standing at the point where the rivers come together, the Allegheny, Monongahela, and Ohio was stunning. You can see why this location was so important historically.
+**Point State Park** was under construction because Pittsburgh is hosting the **2026 NFL Draft**. Even with the work happening, it was still a beautiful spot. Standing at the point where the rivers come together, the Allegheny, Monongahela, and Ohio, was stunning. You can see why this location was so important historically.
 
 ### Randyland: A Kaleidoscope of Joy
 

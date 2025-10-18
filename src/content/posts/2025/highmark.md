@@ -40,11 +40,15 @@ We found a dive bar and ordered some wings, which were okay, but they did not li
 
 The next day, we went to **Anchor Bar**, where they claim to be the home of the original Buffalo chicken wings.
 
+![Anchor Bar](https://i.imgur.com/6HUBF8Pl.jpeg)
+
 Since I've been to Buffalo before, I knew this was a hotly debated topic, so I just decided to keep my opinions to myself and enjoy the food.
 
 We got there early, and there was already a line before they'd even opened. We got to talk to some other Bills and Saints fans who were in town for the game. The wings were great and completely redeemed themselves from the previous night's bar. These were the real deal.
 
 On the walk back, we ran into a car show with lots of beautiful classic cars on display. My favorite was a converted van in the style of Alice in Wonderland.
+
+![Car Show ](https://i.imgur.com/zuFLrlOl.jpeg)
 
 ## Frank Lloyd Wright's Martin House
 
@@ -52,11 +56,15 @@ As a fan of architecture (what I wanted to be when I grew up), we stopped by the
 
 One thing that struck me as funny was how awkward it must be for the neighbors to live next to a Frank Lloyd Wright house. How do you keep up with the Joneses for that?
 
+![Martin House](https://i.imgur.com/xjqaXqTl.jpeg)
+
 ## Parkside Candies and Sponge Candy
 
 We went to **Parkside Candies**, an old-school candy store where we were told to get **sponge candy** (a type of honeycomb toffee).
 
 It did not disappoint. I brought back a bag for myself and the family. But mostly for myself.
+
+![Parkside Candies](https://i.imgur.com/PNNa9Jpl.jpeg)
 
 ## Eternal Flame Falls
 
@@ -66,17 +74,29 @@ We were glad it wasn't raining, as it might have been difficult and slippery to 
 
 Afterward, we walked around the beach of **Lake Erie**, taking in the water and the surprisingly pleasant weather.
 
+![Eternal Flames Fall](https://i.imgur.com/csNcm39l.jpeg)
+
 ## One Foot Cock Bar and Chef's Restaurant
 
 We stopped at **One Foot Cock Bar**, where I tried their maple old-fashioned. It was too sweet for my taste, but I'd like to try their Bourbon Street cocktail next time. They seem to be more cocktail-leaning.
 
-From a recommendation from Gene's sister, we ate at **Chef's Restaurant**. The name was unassuming, the inside looked like something right out of the 1980s, but this was probably one of the best **chicken Parmesans** of my life.
+![One Foot Cock](https://i.imgur.com/mKZdxeHl.jpeg)
 
-I'm pretty sure the layer of cheese, sweet meat sauce, and copious amounts of butter helped. The couple next to us were just as excited and glowing about the food.
+From a recommendation from Gene's sister, we ate at **[Chef's Restaurant](https://ilovechefs.com/)**. The name was unassuming, the inside looked like something right out of the 1980s, but this was probably one of the best **Spaghetti parmesan** of my life.
+
+![Chef's Restaurant](https://i.imgur.com/RChyHk9.jpeg)
+
+I'm pretty sure the layer of cheese, sweet meat sauce, and copious amounts of butter helped. I got mine topped with a meatball. The couple next to us were just as excited and glowing about the food.
+
+![Chef's Restaurant](https://i.imgur.com/dOiTDsIl.jpeg)
 
 They don't give you just a napkin, you get a full bib. Because you're going to make a mess, and you should just lean into it.
 
 We finished the night off by walking our full bellies to the top of the **Ascend Hotel** for a view of downtown Buffalo, then popping into **Streetlight Brasserie**, which gave a strong "seen and be seen" vibe.
+
+![Ascend Hotel](https://i.imgur.com/5EiHyKDl.jpeg)
+
+![](https://i.imgur.com/18W8pTi.jpeg)
 
 ## The Flight Timing Problem
 
@@ -88,9 +108,13 @@ Two items on my bucket list for this trip were to see **Pinto Ron** and watch so
 
 Thankfully, we'd scouted the location earlier and strategized where to park so we'd be able to leave with minimal traffic problems. Since my flight was at 5 PM, we planned to leave the stadium at 3:30 PM. Thankfully, the airport was nearby (about 20 minutes).
 
+![](https://i.imgur.com/Xvb0Yd0l.jpeg)
+
 **Buffalo fans have, so far, been the most intense we've run into.**
 
-I was wearing my Brees jersey and a black and gold kilt. There were a few other black and gold fans around, but it was mostly a sea of blue.
+I was wearing my Brees jersey and a black and gold kilt. There were a few other black and gold fans around, but it was mostly a sea of blue.  And some confused...
+
+![](https://i.imgur.com/eu94w1Jl.jpeg)
 
 We barely got 100 feet in before someone invited me to do a ski shot with them. I knew this was going to be great.
 
@@ -100,9 +124,13 @@ Since Buffalo is a smaller city, like New Orleans, I loved seeing the innovative
 
 Buffalo fans are creative with their presentation.
 
+![](https://i.imgur.com/bWuVVSFl.jpeg)
+
 ### Pinto Ron and the Ketchup and Mustard Ritual
 
 About 90 minutes before the game started, **Hammer Lot** got crowded as people came to see **Pinto Ron** and the ketchup and mustard dousing ritual. It was exactly as advertised: chaotic, loud, and quintessentially Bills Mafia.
+
+![Pinto Ron](https://i.imgur.com/JwD2zu3l.jpeg)
 
 ### "F*** the Saints" and Finding Common Ground
 
@@ -118,6 +146,10 @@ We also ran into three other people who said they were also trying to visit each
 
 Hopefully, this blog can help others want to go down this path.
 
+### More Vanlife
+
+There were a bunch more #vanlife'ers there, almost a mini convention.  I was happy to talk to them and learn more about their process and get some more pointers.
+
 ## Highmark Stadium: Old-School Football
 
 This is the **final and 52nd year of Highmark Stadium** one of the very few old-school stadiums still around. It felt like a high school stadium with the grandstands and aluminum bleachers, but much larger.
@@ -131,6 +163,11 @@ I knew we weren't going to win this game, which kind of sucks because we'd won e
 However, I was impressed at how much of a fight we were able to give. There was one touchdown in the 4th quarter that was overturned, and if it wasn't, we would have led the game at some point. Very impressive.
 
 When we were trailing by only one point, it was exactly when I needed to leave to make my flight. For a brief second, I debated staying, but that would have complicated logistics all too much.
+![](https://i.imgur.com/I5D7SF4l.jpeg)
+
+Instead, we ran from one tunnel to the next, in the direction of our car, watching the Saints get closer to the endzone, almost scoring and taking the lead.  Sadly, what looked like a touchdown was later overturned and we had to settle for a field goal.  This "ball chasing" wasn't sustainable as the guards didn't want us hanging around for long, but helped us feel super close to the game and that we were willing them into the end zone.
+![](https://i.imgur.com/wDD7akNl.jpeg)
+
 
 ## After the Game: The Undefeated Streak Ends (Sort Of)
 
@@ -141,6 +178,10 @@ So I think maybe we're good luck.
 I had to leave the game early to catch my flight, but so far, we've never seen our teams lose a game. Maybe if this continues, we might get sponsored. :)
 
 Due to our early scouting and carefully planned parking and exit, I was able to get to the airport with lots of time. My sea of blue started coming in from all the other out-of-town fans heading home.
+
+Funny enough, one of the other teams in my fantasy football league is called "Allen Allen Allen Allen" (not related to Josh).  So, I got this perfectly timed photo with all four of them.
+
+![Allen Allen Allen Allen](https://i.imgur.com/6eCNim3l.jpeg)
 
 ## What We Learned
 
@@ -173,10 +214,7 @@ Gene and I are still undefeated when we stay for the whole game. Let's see how l
 **Stadiums Visited:** 4/30  
 **Pinto Ron Sightings:** 1  
 **Tables Destroyed:** 0 (next time)  
-**Good Luck Streak:** Intact  
+**Good Luck Streak:** Intact.  Kinda, but not really.
 **Next Stop:** TBD
 
 *Follow along as Gene and I continue our journey across America, one stadium at a time.*
-
-![alt text](https://lh3.googleusercontent.com/pw/AP1GczMD--6of3Ff85XZCJBLp8JaL-zUMeGut3ev6HlUuobkOcQHhH0zJIb6lctof58Eu2HecvfKcJ_yulsS6uwbFT01wetY-9o0HiW7_iokFrvbYmIxnrh0=w2400)
-test

@@ -24,12 +24,11 @@ This was it!  The beginning of our quest to visit all 30 NFL stadiums and discov
 
 We flew in a few days early to explore the city before game day. LA is massive, sprawling, and impossible to truly know in just a few days, but we tried.
 
-**Getty Villa** was our first stop, tucked into the Pacific Palisades with views of the ocean. Walking through the recreated Roman villa filled with ancient art felt surreal, like stepping into another world. The gardens alone were worth the visit.
+**[Getty Villa](http://getty.edu/visit/villa/)** was our first stop, tucked into the Pacific Palisades with views of the ocean. Walking through the recreated Roman villa filled with ancient art felt surreal, like stepping into another world. The gardens alone were worth the visit.
 
-From there we headed to **Castle Rock Village**, a quirky little shopping area that felt like someone had transported a European village to the California coast. It was touristy, sure, but charming in its own way.
+**[Santa Monica Pier](https://pacpark.com/)** gave us the classic California experience:  The Ferris wheel, the arcade, street performers, and that endless stretch of beach. The weather was perfect, exactly what you'd expect from LA. Sunny, warm, not too hot. We grabbed fish tacos and watched the sunset over the Pacific, already feeling like this trip was going to be something special.
 
-**Santa Monica Pier** gave us the classic California experience:  The Ferris wheel, the arcade, street performers, and that endless stretch of beach. The weather was perfect, exactly what you'd expect from LA. Sunny, warm, not too hot. We grabbed fish tacos and watched the sunset over the Pacific, already feeling like this trip was going to be something special.
-
+I even found someone living their best #[vanlife](https://en.wikipedia.org/wiki/Van-dwelling) and talked to them for a while to get some inspiration. My goal is to get a van and road trip to some along each of the coasts.
 
 ## Game Day: Our First Tailgate
 
@@ -61,7 +60,7 @@ This thing is unlike anything else in sports. It's a 120-yard double-sided video
 
 The Seahawks won. That made Gene happy, even if most of the stars weren't playing.
 
-That's the thing about preseason.  You're watching backup quarterbacks, rookies trying to make the roster, veterans getting their legs under them. We didn't see Russell Wilson or any of the big names take more than a handful of snaps. But it didn't matter.
+That's the thing about preseason.  You're watching backup quarterbacks, rookies trying to make the roster, veterans getting their legs under them. We didn't see Geno Smith or any of the big names take more than a handful of snaps. But it didn't matter.
 
 We were there. We were in an NFL stadium, watching live football, soaking in the atmosphere. The crowd still cheered. The band still played. The energy was still real.
 

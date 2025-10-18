@@ -26,7 +26,7 @@ We're also being strategic about which teams we visit. We want to hit **AFC team
 
 Pittsburgh checked both boxes: northern location, AFC team. Perfect.
 
-## Solo Exploring: Gene's Work Gets in the Way
+## Solo Exploring: Gene's Work Kept Him Away
 
 Gene had work commitments and couldn't join until Sunday, driving in right before the game. So I had a few days to explore Pittsburgh on my own.
 
@@ -119,6 +119,8 @@ Here's the thing though: the stadium is officially called Acrisure Stadium, but 
 I was wearing my **gold Saints shirt**, which looked close enough to Steelers colors that I'm not even sure people noticed I wasn't rooting for the home team.
 
 We met up with my friends from the restaurant, the couple celebrating their anniversary, and enjoyed the game together.
+
+One thing which took us off guard was the importance of sunscreen. We didn't think it would be a problem up north, but the open stadium got quite warm on the visitor's side.
 
 ## The Game: Seahawks Win
 

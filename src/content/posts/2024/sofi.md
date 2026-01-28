@@ -1,5 +1,5 @@
 ---
-title: SoFi Stadium Guide 2024 - NFL Tailgate Experience, Infinity Screen & LA Tips
+title: SoFi Stadium (2024) - NFL Tailgate Experience, Infinity Screen & LA Tips
 published: 2024-08-10
 updated: 2024-08-10
 description: 'First-hand SoFi Stadium tailgate experience in Los Angeles. Tips on parking, the famous infinity screen, Seahawks vs Chargers preseason, Getty Villa, Santa Monica Pier, and van life culture.'

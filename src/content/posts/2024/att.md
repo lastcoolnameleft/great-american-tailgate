@@ -1,5 +1,5 @@
 ---
-title: AT&T Stadium Guide 2024 - Saints vs Cowboys Scorigami, Jerry World Tailgate Tips
+title: AT&T Stadium (2024) - Saints vs Cowboys Scorigami, Jerry World Tailgate Tips
 published: 2024-09-15
 updated: 2024-09-15
 description: 'Complete AT&T Stadium experience guide. Witnessed NFL scorigami history as Saints beat Cowboys 44-19. Tips on the giant jumbotron, Dallas tailgating, and why Saints fans took over Jerry World.'

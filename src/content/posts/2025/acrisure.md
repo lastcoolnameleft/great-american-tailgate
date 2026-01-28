@@ -1,5 +1,5 @@
 ---
-title: Acrisure Stadium Guide 2025 - Primanti Bros, Pittsburgh Attractions & Steelers Tailgate
+title: Acrisure Stadium (2025) - Primanti Bros, Pittsburgh Attractions & Steelers Tailgate
 published: 2025-09-14
 updated: 2025-09-14
 description: 'Complete Acrisure Stadium (Heinz Field) experience guide. Explore Pittsburgh attractions like Randyland, Primanti Bros sandwiches, the Inclines, Wigle Whiskey, and experience Steelers tailgating culture.'

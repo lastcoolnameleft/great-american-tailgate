@@ -2,7 +2,7 @@
 
 ## The Origin Story of The Great American Tailgate
 
-> **TL;DR:** Two friends — a Saints fan and a Seahawks fan — are visiting all 30 NFL stadiums to keep their long-distance friendship alive and discover the hidden culture of America along the way.
+> **TL;DR:** Two friends (I'm a Saints fan and Gene is a Seahawks fan) are visiting all 30 NFL stadiums to keep their long-distance friendship alive and discover the hidden culture of America along the way.
 
 ---
 
@@ -10,7 +10,7 @@ Gene and I met swing dancing in Dallas when we were both single and looking. Aft
 
 Like most long-distance friendships, ours started fading. Video calls became texts. "We should visit" became something we said but never did. Then football season started.
 
-While Gene's a Seahawks fan; I'm a Saints fan. We'd never talked about football in Dallas, but once he was back in Seattle, it crept into our group chat. Videos of stadium crowds. Friendly trash talk. Debates about which fanbase was better.
+We never talked about football in Dallas, but once he was back in Seattle, it crept into our group chat. Videos of stadium crowds. Friendly trash talk. Debates about which fanbase was better.
 
 One day Gene typed: "We should just visit every stadium."
 I laughed it off. But two weeks later, I texted him: "Were you serious about the stadium thing?"

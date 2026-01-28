@@ -9,7 +9,7 @@ import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
 	title: "The Great American Tailgate",
-	subtitle: "A blog about discovering America by visiting every NFL stadium",
+	subtitle: "Visiting All 30 NFL Stadiums & Discovering America One Tailgate at a Time",
 	lang: "en", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
 		hue: 250, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345

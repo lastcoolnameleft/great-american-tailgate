@@ -99,6 +99,10 @@ const bannerOffset =
 		<meta name="twitter:title" content={pageTitle}>
 		<meta name="twitter:description" content={description || pageTitle}>
 
+		<!-- OG Image: Default to og-image.jpg in public folder -->
+		<meta property="og:image" content={new URL('/og-image.jpg', Astro.site).href}>
+		<meta name="twitter:image" content={new URL('/og-image.jpg', Astro.site).href}>
+
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
 		{favicons.map(favicon => (

@@ -1,10 +1,10 @@
 ---
-title: AT&T Stadium - Scoragami!
+title: AT&T Stadium Guide 2024 - Saints vs Cowboys Scorigami, Jerry World Tailgate Tips
 published: 2024-09-15
 updated: 2024-09-15
-description: 'Our 2nd Adventure - AT&T Stadium'
+description: 'Complete AT&T Stadium experience guide. Witnessed NFL scorigami history as Saints beat Cowboys 44-19. Tips on the giant jumbotron, Dallas tailgating, and why Saints fans took over Jerry World.'
 image: './att.jpeg'
-tags: [SoFi Stadium, Dallas, Cowboys, Saints]
+tags: [AT&T Stadium, Dallas Cowboys, New Orleans Saints, NFL Stadium Tour, Jerry World, Scorigami, Dallas Tailgate, Arlington Texas, Jumbotron, NFC South]
 category: 'Stadium Visits'
 draft: false 
 ---
@@ -13,6 +13,10 @@ draft: false
 
 **Stadium #2: AT&T Stadium, Arlington, TX**  
 *Saints vs Cowboys - September 15, 2024*
+
+---
+
+> **TL;DR:** Witnessed NFL history at AT&T Stadium as the Saints demolished the Cowboys 44-19 in a scorigami (a score that had never happened before). Saints fans took over Jerry World, the massive jumbotron lived up to the hype, and we learned to avoid Texas heat in September.
 
 ---
 
@@ -58,7 +62,7 @@ And then the game happened.
 
 We weren't expecting to win. We definitely weren't expecting to blow them out in their own stadium. But that's exactly what happened.
 
-Here's the best part: **it was a [scorigami](https://nflscorigami.com/)**. For those unfamiliar, that means the final score had never happened before in NFL history. 44-19 was a first.
+Here's the best part: **it was a [scorigami](https://nflscorigami.com/)** — for those unfamiliar, that means the final score of 44-19 had never happened before in NFL history. You can check all NFL scorigamis at [nflscorigami.com](https://nflscorigami.com/).
 
 **My first scorigami!** I was thrilled. There's something special about witnessing a piece of NFL history which excited the math nerd in me.
 
@@ -68,7 +72,7 @@ It was an away game that felt like a home game by the fourth quarter.
 
 ## Victory Celebration
 
-After the game, we weren't ready to call it a night. We headed to **Revelers Hall in Bishop Arts**, a spot that brings New Orleans culture to Dallas.
+After the game, we weren't ready to call it a night. We headed to **[Revelers Hall](https://revelershall.com/) in Bishop Arts**, a spot that brings New Orleans culture to Dallas.
 
 We caught a **live New Orleans-style jazz band**, and the place was packed with Saints fans still riding the high of the blowout win. The music, the energy and celebration was perfect.
 

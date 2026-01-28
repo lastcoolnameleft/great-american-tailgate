@@ -1,10 +1,10 @@
 ---
-title: Acrisure Stadium - Primanti's and Pigskins
+title: Acrisure Stadium Guide 2025 - Primanti Bros, Pittsburgh Attractions & Steelers Tailgate
 published: 2025-09-14
 updated: 2025-09-14
-description: 'Our 3rd Adventure - Acrisure Stadium'
+description: 'Complete Acrisure Stadium (Heinz Field) experience guide. Explore Pittsburgh attractions like Randyland, Primanti Bros sandwiches, the Inclines, Wigle Whiskey, and experience Steelers tailgating culture.'
 image: './acrisure.jpeg'
-tags: [Acrisure Stadium, Pittsburgh, Steelers, Seahawks]
+tags: [Acrisure Stadium, Pittsburgh Steelers, Heinz Field, NFL Stadium Tour, Primanti Bros, Randyland, Pittsburgh Incline, Wigle Whiskey, Seahawks, Strip District, PPG Place]
 category: 'Stadium Visits'
 draft: false 
 ---
@@ -13,6 +13,10 @@ draft: false
 
 **Stadium #3: Acrisure Stadium, Pittsburgh, PA**  
 *Seahawks vs Steelers - September 14, 2025*
+
+---
+
+> **TL;DR:** First northern stadium visit at Acrisure Stadium (still called Heinz Field by locals). Explored Pittsburgh's incredible architecture, ate legendary Primanti Bros sandwiches with fries inside, visited colorful Randyland, rode the Monongahela Incline, and learned to pack sunscreen even up north. Seahawks won 31-17!
 
 ---
 
@@ -38,17 +42,17 @@ I stayed at an **Airbnb in Northside** and spent my time wandering the city, eat
 
 ### Primanti Bros: Fries Belong in Sandwiches
 
-On a coworker's recommendation, I ate at **Primanti Bros**, the legendary Pittsburgh sandwich shop.
+On a coworker's recommendation, I ate at **[Primanti Bros](https://primantibros.com/)**, the legendary Pittsburgh sandwich shop.
 
 I ordered the **Pastrami and Cheese**, and it was amazing. Yes, they literally put the fries **in the sandwich**. And you know what? It works. Perfectly. I don't know why more places don't do this.
 
 ### Point State Park: Under Construction, Still Beautiful
 
-**Point State Park** was under construction because Pittsburgh is hosting the **2026 NFL Draft**. Even with the work happening, it was still a beautiful spot. Standing at the point where the rivers come together, the Allegheny, Monongahela, and Ohio, was stunning. You can see why this location was so important historically.
+**[Point State Park](https://www.dcnr.pa.gov/StateParks/FindAPark/PointStatePark/Pages/default.aspx)** was under construction because Pittsburgh is hosting the **[2026 NFL Draft](https://www.nfl.com/draft/)**. Even with the work happening, it was still a beautiful spot. Standing at the point where the rivers come together, the Allegheny, Monongahela, and Ohio, was stunning. You can see why this location was so important historically.
 
 ### Randyland: A Kaleidoscope of Joy
 
-One of the most unique stops was **Randyland**, this incredibly colorful house covered in wild, hodgepodge art made from toys and found objects. It's chaotic, joyful, and unlike anything I've ever seen.
+One of the most unique stops was **[Randyland](https://randy.land/)**, this incredibly colorful house covered in wild, hodgepodge art made from toys and found objects. It's chaotic, joyful, and unlike anything I've ever seen.
 
 I got to talk to the owner, Randy, who's also autistic. His energy and passion for what he's created was infectious. The whole place is just pure creative expression, and I loved it.
 
@@ -60,7 +64,7 @@ It's very different from the New Orleans bars I grew up with, where you can hear
 
 ### Mattress Factory: Modern Art in an Old Factory
 
-I visited the **Mattress Factory**, a modern art museum, which used to be an actual mattress factory. Modern art isn't usually my thing, but this place was cool. The installations were creative and thought-provoking, and the space itself added to the experience.
+I visited the **[Mattress Factory](https://www.mattress.org/)**, a modern art museum, which used to be an actual mattress factory. Modern art isn't usually my thing, but this place was cool. The installations were creative and thought-provoking, and the space itself added to the experience.
 
 ### Strip District: Steelers Everything
 
@@ -70,13 +74,13 @@ I found **Posman Books**, a bookstore that's also an ice cream shop. I was in he
 
 ### Wigle Whiskey: A Rye Revelation
 
-I have a large whisk(e)y collection and usually prefer bourbons, but I stopped by **Wigle Whiskey** for a tasting. Surprisingly, I **preferred their Rye over their Bourbon**. Maybe it's because I was up north, but the rye just hit different. It was smooth, flavorful, and made me rethink my bourbon bias.
+I have a large whisk(e)y collection and usually prefer bourbons, but I stopped by **[Wigle Whiskey](https://www.wiglewhiskey.com/)** for a tasting. Surprisingly, I **preferred their Rye over their Bourbon**. Maybe it's because I was up north, but the rye just hit different. It was smooth, flavorful, and made me rethink my bourbon bias.
 
 ### The Incline Adventure and Unexpected Friends
 
-I took the **Monongahela Incline** up to get a higher view of downtown. The view was incredible with the rivers, bridges, the city skyline all laid out below.
+I took the **[Monongahela Incline](https://www.portauthority.org/paac/SchedulesMaps/Inclines.aspx)** up to get a higher view of downtown. The view was incredible with the rivers, bridges, the city skyline all laid out below.
 
-I planned to walk to the **Duquesne Incline** to go back down, and along the way, I made conversation with a couple who was heading to **Le Mont**, a restaurant with an amazing view.
+I planned to walk to the **[Duquesne Incline](https://www.duquesneincline.org/)** to go back down, and along the way, I made conversation with a couple who was heading to **[Le Mont](https://www.lemontpittsburgh.com/)**, a restaurant with an amazing view.
 
 They invited me to join them for a drink. We had a great conversation over incredible views of the city. Turns out they were celebrating their anniversary and were also in town for the game. They gave me their seat info so we could connect at the stadium.
 

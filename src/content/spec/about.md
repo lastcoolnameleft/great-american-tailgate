@@ -1,11 +1,14 @@
-# Why We're Chasing Every Stadium Across America
+# Why We're Visiting All 30 NFL Stadiums Across America
 
 ## The Origin Story of The Great American Tailgate
 
+> **TL;DR:** Two friends — a Saints fan and a Seahawks fan — are visiting all 30 NFL stadiums to keep their long-distance friendship alive and discover the hidden culture of America along the way.
+
+---
+
 Gene and I met swing dancing in Dallas when we were both single and looking. After meeting his wife, Gene moved to Seattle, and suddenly my friend was 2,000 miles away.
 
-Like most long-distance friendships, ours started fading. Video calls became texts. "We should visit" became something we said but never did.
-Then football season started.
+Like most long-distance friendships, ours started fading. Video calls became texts. "We should visit" became something we said but never did. Then football season started.
 
 While Gene's a Seahawks fan; I'm a Saints fan. We'd never talked about football in Dallas, but once he was back in Seattle, it crept into our group chat. Videos of stadium crowds. Friendly trash talk. Debates about which fanbase was better.
 
@@ -35,7 +38,9 @@ But we're also learning about our own country. We're discovering America's hidde
 The stadiums are our framework. The games give us something to rally around. But the real magic happens in the detours, the conversations, the tailgating and the unexpected moments when a city opens up to you.
 
 Gene moved to Seattle, and I thought our friendship might slowly fade. Instead, it became the start of the best adventure either of us has had.
-Thirty stadiums. Thirty cities. One friendship finding its way across the miles.
+
+**Thirty NFL stadiums. Thirty American cities. One friendship finding its way across the miles.**
 
 --- 
-Follow along as we discover the hidden culture of America, one stadium at a time.
+
+*Follow along as we discover the hidden culture of America, one stadium at a time. From [SoFi Stadium in Los Angeles](/posts/2024/sofi) to [Highmark Stadium in Buffalo](/posts/2025/highmark), every city has a story worth telling.*

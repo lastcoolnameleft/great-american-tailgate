@@ -1,10 +1,10 @@
 ---
-title: SoFi Stadium - Our 1st Stadium
+title: SoFi Stadium Guide 2024 - NFL Tailgate Experience, Infinity Screen & LA Tips
 published: 2024-08-10
 updated: 2024-08-10
-description: 'Our First Adventure - SoFi Stadium'
+description: 'First-hand SoFi Stadium tailgate experience in Los Angeles. Tips on parking, the famous infinity screen, Seahawks vs Chargers preseason, Getty Villa, Santa Monica Pier, and van life culture.'
 image: './sofi.jpeg'
-tags: [SoFi Stadium, Los Angeles, Chargers, Seahawks]
+tags: [SoFi Stadium, Los Angeles, NFL Stadium Tour, Chargers, Seahawks, LA Tailgate, Infinity Screen, Getty Villa, Santa Monica, Van Life, Inglewood]
 category: 'Stadium Visits'
 draft: false 
 ---
@@ -16,6 +16,10 @@ draft: false
 
 ---
 
+> **TL;DR:** Our NFL stadium tour begins at SoFi Stadium in Los Angeles for Seahawks vs Chargers preseason. We explored the Getty Villa, Santa Monica Pier, experienced our first tailgate culture, marveled at the famous 120-yard infinity screen, and learned that fanbases travel even for preseason games.
+
+---
+
 Every journey has to start somewhere. For Gene and me, that somewhere was Los Angeles, standing in the parking lot of the most expensive stadium ever built, about to experience our first real NFL tailgate.
 
 This was it!  The beginning of our quest to visit all 30 NFL stadiums and discover America along the way. We'd talked about this crazy idea for months, and now we were actually doing it. Even if it was "just" a preseason game.
@@ -24,9 +28,9 @@ This was it!  The beginning of our quest to visit all 30 NFL stadiums and discov
 
 We flew in a few days early to explore the city before game day. LA is massive, sprawling, and impossible to truly know in just a few days, but we tried.
 
-**[Getty Villa](http://getty.edu/visit/villa/)** was our first stop, tucked into the Pacific Palisades with views of the ocean. Walking through the recreated Roman villa filled with ancient art felt surreal, like stepping into another world. The gardens alone were worth the visit.
+**[Getty Villa](https://www.getty.edu/visit/villa/)** was our first stop, tucked into the Pacific Palisades with views of the ocean. Walking through the recreated Roman villa filled with ancient art felt surreal, like stepping into another world. The gardens alone were worth the visit.
 
-**[Santa Monica Pier](https://pacpark.com/)** gave us the classic California experience:  The Ferris wheel, the arcade, street performers, and that endless stretch of beach. The weather was perfect, exactly what you'd expect from LA. Sunny, warm, not too hot. We grabbed fish tacos and watched the sunset over the Pacific, already feeling like this trip was going to be something special.
+**[Santa Monica Pier](https://www.santamonicapier.org/)** gave us the classic California experience:  The Ferris wheel, the arcade, street performers, and that endless stretch of beach. The weather was perfect, exactly what you'd expect from LA. Sunny, warm, not too hot. We grabbed fish tacos and watched the sunset over the Pacific, already feeling like this trip was going to be something special.
 
 I even found someone living their best #[vanlife](https://en.wikipedia.org/wiki/Van-dwelling) and talked to them for a while to get some inspiration. My goal is to get a van and road trip to some along each of the coasts.
 

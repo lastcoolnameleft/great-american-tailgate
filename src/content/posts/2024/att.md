@@ -62,7 +62,7 @@ And then the game happened.
 
 We weren't expecting to win. We definitely weren't expecting to blow them out in their own stadium. But that's exactly what happened.
 
-Here's the best part: **it was a [scorigami](https://nflscorigami.com/)** - for those unfamiliar, that means the final score of 44-19 had never happened before in NFL history. You can check all NFL scorigamis at [nflscorigami.com](https://nflscorigami.com/).
+Here's the best part: **it was a [scorigami](https://nflscorigami.com/)**! For those unfamiliar, that means the final score of 44-19 had never happened before in NFL history. You can check all NFL scorigamis at [nflscorigami.com](https://nflscorigami.com/).
 
 **My first scorigami!** I was thrilled. There's something special about witnessing a piece of NFL history which excited the math nerd in me.
 

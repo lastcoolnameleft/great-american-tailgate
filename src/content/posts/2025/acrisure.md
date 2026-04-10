@@ -14,6 +14,7 @@ draft: false
 **Stadium #3: Acrisure Stadium, Pittsburgh, PA**  
 *Seahawks vs Steelers - September 14, 2025*
 
+
 ---
 
 > **TL;DR:** First northern stadium visit at Acrisure Stadium (still called Heinz Field by locals). Explored Pittsburgh's incredible architecture, ate legendary Primanti Bros sandwiches with fries inside, visited colorful Randyland, rode the Monongahela Incline, and learned to pack sunscreen even up north. Seahawks won 31-17!
@@ -25,6 +26,8 @@ Stadium number three took us north for the first time. After learning our lesson
 Pittsburgh in mid-September turned out to be perfect timing.
 
 ## The AFC Strategy
+i
+![Stadium](https://i.imgur.com/8phl2uz.jpeg)
 
 We're also being strategic about which teams we visit. We want to hit **AFC teams first** because Seattle and the Saints will play them the least often. These matchups are the hardest to schedule around, so we're knocking them out early in our journey.
 
@@ -38,9 +41,13 @@ I stayed at an **Airbnb in Northside** and spent my time wandering the city, eat
 
 ### Downtown Pittsburgh and PPG Architecture
 
+![PPG (Pittsburgh Plate Glass) buildings](https://i.imgur.com/mmwG4qf.jpeg)
+
 **Downtown Pittsburgh** blew me away. The architecture, especially the **PPG (Pittsburgh Plate Glass) buildings**, is stunning. The city has this beautiful mix of old industrial heritage and modern design. I loved walking around just looking up at the buildings.
 
 ### Primanti Bros: Fries Belong in Sandwiches
+
+![Primanti Bros Sandwich](https://i.imgur.com/wWZcn1B.jpeg)
 
 On a coworker's recommendation, I ate at **[Primanti Bros](https://primantibros.com/)**, the legendary Pittsburgh sandwich shop.
 
@@ -52,11 +59,17 @@ I ordered the **Pastrami and Cheese**, and it was amazing. Yes, they literally p
 
 ### Randyland: A Kaleidoscope of Joy
 
+![Randyland](https://i.imgur.com/US492RC.jpeg)
+
+![Randyland House](https://i.imgur.com/UGzTkMv.jpeg)
+
+
 One of the most unique stops was **[Randyland](https://randy.land/)**, this incredibly colorful house covered in wild, hodgepodge art made from toys and found objects. It's chaotic, joyful, and unlike anything I've ever seen.
 
 I got to talk to the owner, Randy, who's also autistic. His energy and passion for what he's created was infectious. The whole place is just pure creative expression, and I loved it.
 
 ### The City That Sleeps Early
+
 
 One thing I noticed: **Pittsburgh shuts down early**. By 9-10 PM, things get quiet. I was able to find a bar, but I was almost right on top of it before I noticed it because there was so little noise spilling out.
 
@@ -64,21 +77,34 @@ It's very different from the New Orleans bars I grew up with, where you can hear
 
 ### Mattress Factory: Modern Art in an Old Factory
 
+![Mattress Factory](https://i.imgur.com/xXEavR3.jpeg)
+
 I visited the **[Mattress Factory](https://www.mattress.org/)**, a modern art museum, which used to be an actual mattress factory. Modern art isn't usually my thing, but this place was cool. The installations were creative and thought-provoking, and the space itself added to the experience.
 
 ### Strip District: Steelers Everything
 
+![Strip District](https://i.imgur.com/QiZPzAU.jpeg)
+
 The **Strip District** is a collection of shops, markets, and **LOTS of Steelers clothing for sale**. Black and gold everywhere. The city bleeds Steelers pride.
+
+![Posman Books](https://i.imgur.com/YB4DU0J.jpeg)
+
 
 I found **Posman Books**, a bookstore that's also an ice cream shop. I was in heaven. Books and ice cream in one place? That's my ideal afternoon.
 
 ### Wigle Whiskey: A Rye Revelation
 
+![Wigle Whiskey](https://i.imgur.com/JTZyzCJ.jpeg)
+
 I have a large whisk(e)y collection and usually prefer bourbons, but I stopped by **[Wigle Whiskey](https://www.wiglewhiskey.com/)** for a tasting. Surprisingly, I **preferred their Rye over their Bourbon**. Maybe it's because I was up north, but the rye just hit different. It was smooth, flavorful, and made me rethink my bourbon bias.
 
 ### The Incline Adventure and Unexpected Friends
 
+![Monongahela Incline](https://i.imgur.com/51Wzs5t.jpeg)
+
 I took the **[Monongahela Incline](https://www.portauthority.org/paac/SchedulesMaps/Inclines.aspx)** up to get a higher view of downtown. The view was incredible with the rivers, bridges, the city skyline all laid out below.
+
+![Le Mont](https://i.imgur.com/b7k6dxh.jpeg)
 
 I planned to walk to the **[Duquesne Incline](https://www.duquesneincline.org/)** to go back down, and along the way, I made conversation with a couple who was heading to **[Le Mont](https://www.lemontpittsburgh.com/)**, a restaurant with an amazing view.
 
@@ -94,6 +120,8 @@ The show was a potpourri of animations.  Some fell flat, some were hilarious, an
 
 ### Walking Home: A Safe City
 
+![The City That Sleeps Early](https://i.imgur.com/GW3dvzC.jpeg)
+
 After all my exploring, I walked back from downtown to my Airbnb in Northside. **I felt safe the entire time.** Pittsburgh has a welcoming, approachable vibe, even late at night.
 
 ## Game Day: Gene Arrives
@@ -102,29 +130,45 @@ Sunday morning, Gene drove in and parked by my Airbnb. We grabbed breakfast at *
 
 ### Tailgating with Steelers Nation
 
+![Tailgating with Steelers Nation](https://i.imgur.com/BbbsTE2.jpeg)    
+
+
 We talked to a bunch of people who were tailgating, and the Steelers fans were welcoming and passionate. Black and gold everywhere.
 
 We ran into a couple where the husband had already **visited every stadium to see the Steelers play**. We were impressed and glad to know we weren't the only ones crazy enough to attempt this kind of journey.
 
 ### Pre-Game Highlights
 
+![Pre-Game Highlights](https://i.imgur.com/Lfdn0T4.jpeg)
+
 We got to see the **Fred Rogers Memorial Statue**, a touching tribute to Mr. Rogers, who's beloved in Pittsburgh.
 
+![Lowriders](https://i.imgur.com/yqcUKOw.jpeg)
+
+
 There was also a **parade of lowriders** showing off before the game, which got everyone's attention. It was fun to watch and added to the festive atmosphere.
+
+![Boats by the Stadium](https://i.imgur.com/ZHtSUhS.jpeg)
 
 One thing that blew my mind: instead of parking at the stadium, some people were able to **park their boats right by the stadium** and tailgate from there. I'm still wondering if they had to pay for that.
 
 ## Acrisure Stadium: Outdoor Football by the Rivers
 
+![Acrisure Stadium](https://i.imgur.com/P20Fx29.jpeg)
+
 **Acrisure Stadium** is outdoor, sunny, and has a **great view of the rivers**. It's a classic football setting, open air, natural light, and the industrial beauty of Pittsburgh as a backdrop.
 
 Here's the thing though: the stadium is officially called Acrisure Stadium, but **every local we talked to called it Heinz Field**. That's what it was called for years, and old habits die hard. The ketchup bottle may be gone from the scoreboard, but it's clearly not gone from people's hearts.
+
+![gold Saints shirt](https://i.imgur.com/Q2Wfl98.jpeg)
 
 I was wearing my **gold Saints shirt**, which looked close enough to Steelers colors that I'm not even sure people noticed I wasn't rooting for the home team.
 
 We met up with my friends from the restaurant, the couple celebrating their anniversary, and enjoyed the game together.
 
 One thing which took us off guard was the importance of sunscreen. We didn't think it would be a problem up north, but the open stadium got quite warm on the visitor's side.
+
+![Sunny Game Day](https://i.imgur.com/uZWVaw0.jpeg)
 
 ## The Game: Seahawks Win
 
@@ -141,6 +185,8 @@ Even though he was on the opposing side, it was good to see a legend like **Aaro
 After the game, we had to drive by **Randyland** to show it to Gene because it was so close to the Airbnb and so incredibly unique. He loved it.
 
 Unfortunately, we didn't have time for much else. I had to fly home, and Gene had to fly out for another work week.
+
+![Construction Installation Robot](https://i.imgur.com/Lfdn0T4.jpeg)
 
 At the **Pittsburgh International Airport**, I spotted a **really cool construction installation robot**, some kind of art piece that caught my attention on the way out. A fitting end to a city that blends industry and creativity so well.
 

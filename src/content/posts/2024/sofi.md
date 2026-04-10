@@ -26,11 +26,21 @@ This was it!  The beginning of our quest to visit all 30 NFL stadiums and discov
 
 ## Getting to Know LA
 
+![Exploring LA](https://i.imgur.com/foAB6oF.jpeg)
+
 We flew in a few days early to explore the city before game day. LA is massive, sprawling, and impossible to truly know in just a few days, but we tried.
+
+![Getty Villa](https://i.imgur.com/ygbt5zt.jpeg)
 
 **[Getty Villa](https://www.getty.edu/visit/villa/)** was our first stop, tucked into the Pacific Palisades with views of the ocean. Walking through the recreated Roman villa filled with ancient art felt surreal, like stepping into another world. The gardens alone were worth the visit.
 
+![Santa Monica Pier](https://i.imgur.com/CESlLba.jpeg)
+
+![Santa Monica Pier](https://i.imgur.com/edS2zvo.jpeg)
+
 **[Santa Monica Pier](https://www.santamonicapier.org/)** gave us the classic California experience:  The Ferris wheel, the arcade, street performers, and that endless stretch of beach. The weather was perfect, exactly what you'd expect from LA. Sunny, warm, not too hot. We grabbed fish tacos and watched the sunset over the Pacific, already feeling like this trip was going to be something special.
+
+![Van Life Inspiration](https://i.imgur.com/p2V3Gyx.jpeg)
 
 I even found someone living their best #[vanlife](https://en.wikipedia.org/wiki/Van-dwelling) and talked to them for a while to get some inspiration. My goal is to get a van and road trip to some along each of the coasts.
 
@@ -40,7 +50,12 @@ Game day arrived, and we learned quickly that tailgating is an art form.
 
 Driving up to **SoFi Stadium** for the first time was surreal. The building is massive, modern, and sits there like a spaceship that landed in Inglewood. We couldn't go inside yet, but just seeing it from the outside got us excited for what was coming.
 
+![SoFi Stadium Exterior](https://i.imgur.com/MbWqd96.jpeg)
+
 We rolled into the parking lot not really knowing what to expect. Within minutes, we were welcomed by Chargers fans setting up elaborate spreads of grills smoking, canopies up, music playing, corn hole games in full swing. The energy was infectious.
+
+![SoFi Stadium Tailgate](https://i.imgur.com/ILXPa27.jpeg)
+
 
 But here's what surprised us: the **Seahawks fans**. Gene's people. There weren't a ton of them, but there were enough that we didn't feel alone. We found a small group decked out in blue and green, and they welcomed us in like we were family. That's when we learned that fanbases travel, even in the preseason.
 
@@ -48,15 +63,23 @@ One of the coolest conversations we had was with a couple living the **van life*
 
 Even though it was preseason, the tailgate atmosphere was real. People showed up. People cared. That was our first lesson: it's not always about the stakes of the game. It's about the ritual, the community, the excuse to gather.
 
+![SoFi Stadium Parking Lot](https://i.imgur.com/claVR7v.jpeg)
+
 ## SoFi Stadium: A Monument to Modern Sports
 
 Walking into SoFi Stadium for the first time is an experience I won't forget.
 
+![SoFi Stadium Interior](https://i.imgur.com/6sVCYR5.jpeg)
+
 The place is **immense**. It holds 70,000 people and somehow still feels intimate once you're inside. The landscaping around the stadium has beautiful palms, native plants, and modern architecture blending with the Southern California environment.
+
+![SoFi Stadium Exterior](https://i.imgur.com/bKyou8b.jpeg)
 
 Inside, we saw Seahawks fans who'd gone all out. I'm talking full body paint, green and blue from head to toe. One guy had dyed his hair green and had a green pimp outfit. The dedication was unreal, especially for a preseason game.
 
 But the real showstopper? The **infinity screen**.
+
+![SoFi Stadium Infinity Screen](https://i.imgur.com/q4U9PZu.jpeg)
 
 This thing is unlike anything else in sports. It's a 120-yard double-sided video board that hangs from the roof over the field. You can see it from anywhere in the stadium, and the replays, graphics, and visuals are stunning. It gives you a perspective on the game you don't get anywhere else. Even when you're watching the action live on the field, your eyes keep drifting up to that screen.
 
@@ -65,6 +88,8 @@ This thing is unlike anything else in sports. It's a 120-yard double-sided video
 The Seahawks won. That made Gene happy, even if most of the stars weren't playing.
 
 That's the thing about preseason.  You're watching backup quarterbacks, rookies trying to make the roster, veterans getting their legs under them. We didn't see Geno Smith or any of the big names take more than a handful of snaps. But it didn't matter.
+
+![Seahawks Fans](https://i.imgur.com/pD0ksoK.jpeg)
 
 We were there. We were in an NFL stadium, watching live football, soaking in the atmosphere. The crowd still cheered. The band still played. The energy was still real.
 
@@ -86,7 +111,9 @@ This first trip taught us a lot:
 
 ## The Road Ahead
 
-As we left SoFi Stadium and drove back through the LA sprawl, Gene and I were already talking about the next trip. Where would we go? What would we discover? Who would we meet?
+As we left SoFi Stadium and drove back through the LA sprawl, Gene and I were already talking about the next trip. Where would we go? What would we discover? Who would we meet? What would we eat and drink?
+
+![Santa Monica Pier Margaritas](https://i.imgur.com/zXIWdJL.jpeg)
 
 One stadium down. Twenty-nine to go.
 

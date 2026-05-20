@@ -20,7 +20,7 @@ draft: false
 
 ---
 
-![AT&T Stadium](https://i.imgur.com/uLeGIAM.jpeg)
+![AT&T Stadium](../../../assets/images/2024/att/uLeGIAM.jpeg)
 
 Our second stadium. Our first regular season game. And what a game it turned out to be.
 
@@ -38,7 +38,7 @@ Lesson learned.
 
 Since I still live in Dallas and Gene used to call it home, we skipped the full tourist routine this time. We've both seen the major sights already.
 
-![Giant Eyeball](https://i.imgur.com/u2lpQo3.jpeg)
+![Giant Eyeball](../../../assets/images/2024/att/u2lpQo3.jpeg)
 
 We stayed downtown, walked around a bit, and checked out the **Giant Eyeball**, a weird public art installation that everyone in Dallas either loves or hates. No in-between. We're in the "it's entertainingly weird" camp.
 
@@ -46,22 +46,22 @@ Other than that, we kept it low-key before heading to Arlington for the game.
 
 ## Game Day: Saints Nation Shows Up
 
-![Saints Tailgate](https://i.imgur.com/BFWkArQ.jpeg)
+![Saints Tailgate](../../../assets/images/2024/att/BFWkArQ.jpeg)
 
 New Orleans is only about six hours from Dallas, and it seemed like half of the city made the drive. But what really stood out wasn't just the number of Saints fans, it was how you could **identify their tailgate parties by the music**.
 
-![Saints Tailgate Music](https://i.imgur.com/J59rHQB.jpeg)
+![Saints Tailgate Music](../../../assets/images/2024/att/J59rHQB.jpeg)
 
 You'd be walking through the parking lot and suddenly hear **funk, jazz, and bass** pumping from a setup, and you'd know: Saints fans. The music was completely different from the typical tailgate soundtrack. It had that New Orleans soul to it, and as a Saints fan myself who loves that style of music, it felt like home.
 
-![Cowboys Tailgate](https://i.imgur.com/5mfutFQ.jpeg)
+![Cowboys Tailgate](../../../assets/images/2024/att/5mfutFQ.jpeg)
 
 
 ## AT&T Stadium: Jerry's Monument
 
 Walking into **AT&T Stadium** is an experience as the place is **massive**.  There's a reason the locals call it "Jerry World".
 
-![AT&T Stadium Interior](https://i.imgur.com/726C9cx.jpeg)
+![AT&T Stadium Interior](../../../assets/images/2024/att/726C9cx.jpeg)
 
 But the real showstopper is the **jumbotron**. This thing is absurdly large. So large that there were times during the game when it was honestly **easier to watch the jumbotron than what was happening on the field**. The clarity, the size, the way it dominates your field of vision, it's a spectacle.
 
@@ -74,7 +74,7 @@ And then the game happened.
 
 **Saints 44, Cowboys 19.**
 
-![Saints Win](https://i.imgur.com/XVGJHL9.jpeg)
+![Saints Win](../../../assets/images/2024/att/XVGJHL9.jpeg)
 
 We weren't expecting to win. We definitely weren't expecting to blow them out in their own stadium. But that's exactly what happened.
 
@@ -82,7 +82,7 @@ Here's the best part: **it was a [scorigami](https://nflscorigami.com/)**! For t
 
 **My first scorigami!** I was thrilled. There's something special about witnessing a piece of NFL history which excited the math nerd in me.
 
-![AT&T Stadium Jumbotron](https://i.imgur.com/S3n1wBq.jpeg)
+![AT&T Stadium Jumbotron](../../../assets/images/2024/att/S3n1wBq.jpeg)
 
 By the end of the game, **the stadium was full of black and gold jerseys**. Cowboys fans had quietly left, and the Saints faithful stayed to celebrate. The energy was incredible with people **hooting and hollering**, chanting, and even a **[parade](https://www.facebook.com/watch/?v=1600116404263989)** in the streets afterwards with fans marching around celebrating.
 
@@ -90,7 +90,7 @@ It was an away game that felt like a home game by the fourth quarter.
 
 ## Victory Celebration
 
-![Revelers Hall](https://i.imgur.com/b9qkk2N.jpeg)
+![Revelers Hall](../../../assets/images/2024/att/b9qkk2N.jpeg)
 
 
 After the game, we weren't ready to call it a night. We headed to **[Revelers Hall](https://revelershall.com/) in Bishop Arts**, a spot that brings New Orleans culture to Dallas.
@@ -99,7 +99,7 @@ We caught a **live New Orleans-style jazz band**, and the place was packed with 
 
 Then we went to **Chimichurri Latin Bistro & Bar** and absolutely stuffed ourselves. Victory and great food is a winning combo.
 
-![Chimichurri Latin Bistro & Bar](https://i.imgur.com/qAM3caN.jpeg)
+![Chimichurri Latin Bistro & Bar](../../../assets/images/2024/att/qAM3caN.jpeg)
 
 ## What We Learned
 

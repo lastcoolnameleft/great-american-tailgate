@@ -44,7 +44,7 @@ We found a dive bar and ordered some wings, which were okay, but they did not li
 
 The next day, we went to **[Anchor Bar](https://www.anchorbar.com/)**, where they claim to be the home of the original Buffalo chicken wings.
 
-![Anchor Bar Buffalo - Home of the Original Buffalo Wings](https://i.imgur.com/6HUBF8Pl.jpeg)
+![Anchor Bar Buffalo - Home of the Original Buffalo Wings](../../../assets/images/2025/highmark/6HUBF8Pl.jpeg)
 
 Since I've been to Buffalo before, I knew this was a hotly debated topic, so I just decided to keep my opinions to myself and enjoy the food.
 
@@ -52,7 +52,7 @@ We got there early, and there was already a line before they'd even opened. We g
 
 On the walk back, we ran into a car show with lots of beautiful classic cars on display. My favorite was a converted van in the style of Alice in Wonderland.
 
-![Classic car show in Buffalo with Alice in Wonderland themed van](https://i.imgur.com/zuFLrlOl.jpeg)
+![Classic car show in Buffalo with Alice in Wonderland themed van](../../../assets/images/2025/highmark/zuFLrlOl.jpeg)
 
 ## Frank Lloyd Wright's Martin House
 
@@ -60,7 +60,7 @@ As a fan of architecture (what I wanted to be when I grew up), we stopped by the
 
 One thing that struck me as funny was how awkward it must be for the neighbors to live next to a Frank Lloyd Wright house. How do you keep up with the Joneses for that?
 
-![Frank Lloyd Wright Martin House in Buffalo NY - Prairie Style Architecture](https://i.imgur.com/xjqaXqTl.jpeg)
+![Frank Lloyd Wright Martin House in Buffalo NY - Prairie Style Architecture](../../../assets/images/2025/highmark/xjqaXqTl.jpeg)
 
 ## Parkside Candies and Sponge Candy
 
@@ -68,7 +68,7 @@ We went to **[Parkside Candies](https://parksidecandy.com/)**, an old-school can
 
 It did not disappoint. I brought back a bag for myself and the family. But mostly for myself.
 
-![Parkside Candies Buffalo NY - Famous for Sponge Candy](https://i.imgur.com/PNNa9Jpl.jpeg)
+![Parkside Candies Buffalo NY - Famous for Sponge Candy](../../../assets/images/2025/highmark/PNNa9Jpl.jpeg)
 
 ## Eternal Flame Falls
 
@@ -78,29 +78,29 @@ We were glad it wasn't raining, as it might have been difficult and slippery to 
 
 Afterward, we walked around the beach of **Lake Erie**, taking in the water and the surprisingly pleasant weather.
 
-![Eternal Flame Falls Buffalo NY - Natural Gas Flame Behind Waterfall](https://i.imgur.com/csNcm39l.jpeg)
+![Eternal Flame Falls Buffalo NY - Natural Gas Flame Behind Waterfall](../../../assets/images/2025/highmark/csNcm39l.jpeg)
 
 ## One Foot Cock Bar and Chef's Restaurant
 
 We stopped at **One Foot Cock Bar**, where I tried their maple old-fashioned. It was too sweet for my taste, but I'd like to try their Bourbon Street cocktail next time. They seem to be more cocktail-leaning.
 
-![One Foot Cock Bar Buffalo - Craft Cocktails](https://i.imgur.com/mKZdxeHl.jpeg)
+![One Foot Cock Bar Buffalo - Craft Cocktails](../../../assets/images/2025/highmark/mKZdxeHl.jpeg)
 
 From a recommendation from Gene's sister, we ate at **[Chef's Restaurant](https://ilovechefs.com/)**. The name was unassuming, the inside looked like something right out of the 1980s, but this was probably one of the best **Spaghetti parmesan** of my life.
 
-![Chef's Restaurant Buffalo - Famous Spaghetti Parmesan](https://i.imgur.com/RChyHk9.jpeg)
+![Chef's Restaurant Buffalo - Famous Spaghetti Parmesan](../../../assets/images/2025/highmark/RChyHk9.jpeg)
 
 I'm pretty sure the layer of cheese, sweet meat sauce, and copious amounts of butter helped. I got mine topped with a meatball. The couple next to us were just as excited and glowing about the food.
 
-![Chef's Restaurant Buffalo - Spaghetti Parmesan with Meatball](https://i.imgur.com/dOiTDsIl.jpeg)
+![Chef's Restaurant Buffalo - Spaghetti Parmesan with Meatball](../../../assets/images/2025/highmark/dOiTDsIl.jpeg)
 
 They don't give you just a napkin, you get a full bib. Because you're going to make a mess, and you should just lean into it.
 
 We finished the night off by walking our full bellies to the top of the **Ascend Hotel** for a view of downtown Buffalo, then popping into **Streetlight Brasserie**, which gave a strong "seen and be seen" vibe.
 
-![Ascend Hotel Buffalo - Downtown Skyline View at Night](https://i.imgur.com/5EiHyKDl.jpeg)
+![Ascend Hotel Buffalo - Downtown Skyline View at Night](../../../assets/images/2025/highmark/5EiHyKDl.jpeg)
 
-![Streetlight Brasserie Buffalo - Upscale Dining](https://i.imgur.com/18W8pTi.jpeg)
+![Streetlight Brasserie Buffalo - Upscale Dining](../../../assets/images/2025/highmark/18W8pTi.jpeg)
 
 ## The Flight Timing Problem
 
@@ -112,13 +112,13 @@ Two items on my bucket list for this trip were to see **Pinto Ron** and watch so
 
 Thankfully, we'd scouted the location earlier and strategized where to park so we'd be able to leave with minimal traffic problems. Since my flight was at 5 PM, we planned to leave the stadium at 3:30 PM. Thankfully, the airport was nearby (about 20 minutes).
 
-![Highmark Stadium Tailgate Parking Lot - Bills Mafia Gathering](https://i.imgur.com/Xvb0Yd0l.jpeg)
+![Highmark Stadium Tailgate Parking Lot - Bills Mafia Gathering](../../../assets/images/2025/highmark/Xvb0Yd0l.jpeg)
 
 **Buffalo fans have, so far, been the most intense we've run into.**
 
 I was wearing my Brees jersey and a black and gold kilt. There were a few other black and gold fans around, but it was mostly a sea of blue.  And some confused...
 
-![Saints Fan in Drew Brees Jersey at Bills Mafia Tailgate](https://i.imgur.com/eu94w1Jl.jpeg)
+![Saints Fan in Drew Brees Jersey at Bills Mafia Tailgate](../../../assets/images/2025/highmark/eu94w1Jl.jpeg)
 
 We barely got 100 feet in before someone invited me to do a ski shot with them. I knew this was going to be great.
 
@@ -128,13 +128,13 @@ Since Buffalo is a smaller city, like New Orleans, I loved seeing the innovative
 
 Buffalo fans are creative with their presentation.
 
-![Bills Mafia Creative Tailgate Food - Filing Cabinet Wings and Bedpan Meatballs](https://i.imgur.com/bWuVVSFl.jpeg)
+![Bills Mafia Creative Tailgate Food - Filing Cabinet Wings and Bedpan Meatballs](../../../assets/images/2025/highmark/bWuVVSFl.jpeg)
 
 ### Pinto Ron and the Ketchup and Mustard Ritual
 
 About 90 minutes before the game started, **Hammer Lot** got crowded as people came to see **Pinto Ron** and the ketchup and mustard dousing ritual. It was exactly as advertised: chaotic, loud, and quintessentially Bills Mafia.
 
-![Pinto Ron Bills Mafia Legend - Ketchup and Mustard Ritual at Hammer Lot](https://i.imgur.com/JwD2zu3l.jpeg)
+![Pinto Ron Bills Mafia Legend - Ketchup and Mustard Ritual at Hammer Lot](../../../assets/images/2025/highmark/JwD2zu3l.jpeg)
 
 ### "F*** the Saints" and Finding Common Ground
 
@@ -167,10 +167,10 @@ I knew we weren't going to win this game, which kind of sucks because we'd won e
 However, I was impressed at how much of a fight we were able to give. There was one touchdown in the 4th quarter that was overturned, and if it wasn't, we would have led the game at some point. Very impressive.
 
 When we were trailing by only one point, it was exactly when I needed to leave to make my flight. For a brief second, I debated staying, but that would have complicated logistics all too much.
-![Saints vs Bills Game at Highmark Stadium - Close Score on Scoreboard](https://i.imgur.com/I5D7SF4l.jpeg)
+![Saints vs Bills Game at Highmark Stadium - Close Score on Scoreboard](../../../assets/images/2025/highmark/I5D7SF4l.jpeg)
 
 Instead, we ran from one tunnel to the next, in the direction of our car, watching the Saints get closer to the endzone, almost scoring and taking the lead.  Sadly, what looked like a touchdown was later overturned and we had to settle for a field goal.  This "ball chasing" wasn't sustainable as the guards didn't want us hanging around for long, but helped us feel super close to the game and that we were willing them into the end zone.
-![Highmark Stadium Tunnel View - Watching Saints Drive from Concourse](https://i.imgur.com/wDD7akNl.jpeg)
+![Highmark Stadium Tunnel View - Watching Saints Drive from Concourse](../../../assets/images/2025/highmark/wDD7akNl.jpeg)
 
 
 ## After the Game: The Undefeated Streak Ends (Sort Of)
@@ -185,7 +185,7 @@ Due to our early scouting and carefully planned parking and exit, I was able to 
 
 Funny enough, one of the other teams in my fantasy football league is called "Allen Allen Allen Allen" (not related to Josh).  So, I got this perfectly timed photo with all four of them.
 
-![Four Josh Allen Buffalo Bills Jerseys at Airport - Fantasy Football Team Name](https://i.imgur.com/6eCNim3l.jpeg)
+![Four Josh Allen Buffalo Bills Jerseys at Airport - Fantasy Football Team Name](../../../assets/images/2025/highmark/6eCNim3l.jpeg)
 
 ## What We Learned
 

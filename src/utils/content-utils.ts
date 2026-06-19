@@ -3,9 +3,15 @@ import I18nKey from "@i18n/i18nKey";
 import { i18n } from "@i18n/translation";
 import { getCategoryUrl } from "@utils/url-utils.ts";
 
-// // Retrieve posts and sort them by publication date
-async function getRawSortedPosts() {
+type SortedPostsOptions = {
+	includeDrafts?: boolean;
+};
+
+// Retrieve posts and sort them by publication date
+async function getRawSortedPosts(options: SortedPostsOptions = {}) {
+	const { includeDrafts = false } = options;
 	const allBlogPosts = await getCollection("posts", ({ data }) => {
+		if (includeDrafts) return true;
 		return import.meta.env.PROD ? data.draft !== true : true;
 	});
 
@@ -17,8 +23,8 @@ async function getRawSortedPosts() {
 	return sorted;
 }
 
-export async function getSortedPosts() {
-	const sorted = await getRawSortedPosts();
+export async function getSortedPosts(options: SortedPostsOptions = {}) {
+	const sorted = await getRawSortedPosts(options);
 
 	for (let i = 1; i < sorted.length; i++) {
 		sorted[i].data.nextSlug = sorted[i - 1].slug;

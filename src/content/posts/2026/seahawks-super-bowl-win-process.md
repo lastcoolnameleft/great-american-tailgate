@@ -6,7 +6,7 @@ updated: 2026-06-19
 image: ''
 tags: [Seattle Seahawks, Super Bowl, Mike Macdonald, NFL Playoffs, NFL Stadium Tour, Pittsburgh Steelers, Buffalo Bills, Team Culture, 12th Man]
 category: 'Season Reflections'
-draft: true
+draft: false
 ---
 
 # Seattle Seahawks Super Bowl Win: We "Did Not Care" Until We Had To
